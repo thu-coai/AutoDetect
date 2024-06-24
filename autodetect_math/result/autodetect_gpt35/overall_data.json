@@ -1,0 +1,550 @@
+{
+    "analysis": {
+        "cat": {
+            "limits": {
+                "total_data": 15,
+                "success_data": 6,
+                "asr": 40.0,
+                "avg_score": 6.17
+            },
+            "derivatives": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 4.83
+            },
+            "integrals": {
+                "total_data": 15,
+                "success_data": 8,
+                "asr": 53.33,
+                "avg_score": 5.07
+            },
+            "interpretation of mathematical results": {
+                "total_data": 15,
+                "success_data": 2,
+                "asr": 13.33,
+                "avg_score": 6.07
+            },
+            "solving_equations": {
+                "total_data": 15,
+                "success_data": 3,
+                "asr": 20.0,
+                "avg_score": 7.73
+            },
+            "calculation_errors": {
+                "total_data": 15,
+                "success_data": 6,
+                "asr": 40.0,
+                "avg_score": 5.87
+            }
+        },
+        "total_data": 90,
+        "success_data": 32,
+        "asr": 35.56,
+        "avg_score": 5.96
+    },
+    "arithmetic": {
+        "cat": {
+            "basic_operations": {
+                "total_data": 15,
+                "success_data": 4,
+                "asr": 26.67,
+                "avg_score": 7.43
+            },
+            "integer_exponents": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.33
+            },
+            "roots_and_radicals": {
+                "total_data": 15,
+                "success_data": 5,
+                "asr": 33.33,
+                "avg_score": 6.4
+            },
+            "absolute_value": {
+                "total_data": 15,
+                "success_data": 3,
+                "asr": 20.0,
+                "avg_score": 8.0
+            },
+            "fractions_and_decimals": {
+                "total_data": 15,
+                "success_data": 5,
+                "asr": 33.33,
+                "avg_score": 6.63
+            },
+            "percentage_problems": {
+                "total_data": 15,
+                "success_data": 2,
+                "asr": 13.33,
+                "avg_score": 8.3
+            }
+        },
+        "total_data": 90,
+        "success_data": 26,
+        "asr": 28.89,
+        "avg_score": 7.02
+    },
+    "complex_numbers": {
+        "cat": {
+            "basic_operations": {
+                "total_data": 15,
+                "success_data": 5,
+                "asr": 33.33,
+                "avg_score": 6.0
+            },
+            "polar_form": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.37
+            },
+            "roots_of_complex_numbers": {
+                "total_data": 15,
+                "success_data": 11,
+                "asr": 73.33,
+                "avg_score": 3.3
+            },
+            "complex_conjugates": {
+                "total_data": 15,
+                "success_data": 5,
+                "asr": 33.33,
+                "avg_score": 6.27
+            },
+            "imaginary_unit_properties": {
+                "total_data": 15,
+                "success_data": 6,
+                "asr": 40.0,
+                "avg_score": 6.47
+            },
+            "quadratic_equations_with_complex_roots": {
+                "total_data": 15,
+                "success_data": 9,
+                "asr": 60.0,
+                "avg_score": 4.73
+            }
+        },
+        "total_data": 90,
+        "success_data": 43,
+        "asr": 47.78,
+        "avg_score": 5.36
+    },
+    "concepts_of_space_and_form": {
+        "cat": {
+            "angles": {
+                "total_data": 15,
+                "success_data": 8,
+                "asr": 53.33,
+                "avg_score": 5.27
+            },
+            "area_and_perimeter": {
+                "total_data": 15,
+                "success_data": 9,
+                "asr": 60.0,
+                "avg_score": 4.47
+            },
+            "volume_and_surface_area": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.8
+            },
+            "Comprehension of 3D shapes": {
+                "total_data": 15,
+                "success_data": 9,
+                "asr": 60.0,
+                "avg_score": 4.33
+            },
+            "calculation_of_diagonals": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.8
+            },
+            "understanding_scales_and_measurements": {
+                "total_data": 15,
+                "success_data": 9,
+                "asr": 60.0,
+                "avg_score": 4.87
+            }
+        },
+        "total_data": 90,
+        "success_data": 49,
+        "asr": 54.44,
+        "avg_score": 5.09
+    },
+    "coords_and_shapes": {
+        "cat": {
+            "coordinate_geometry": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.3
+            },
+            "geometric_shapes": {
+                "total_data": 15,
+                "success_data": 8,
+                "asr": 53.33,
+                "avg_score": 5.27
+            },
+            "trigonometric_application": {
+                "total_data": 15,
+                "success_data": 9,
+                "asr": 60.0,
+                "avg_score": 4.57
+            },
+            "calculating_2D_area": {
+                "total_data": 15,
+                "success_data": 8,
+                "asr": 53.33,
+                "avg_score": 5.47
+            },
+            "vector_based_resolution": {
+                "total_data": 15,
+                "success_data": 9,
+                "asr": 60.0,
+                "avg_score": 4.73
+            },
+            "understanding_coordinate_systems": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 6.0
+            }
+        },
+        "total_data": 90,
+        "success_data": 48,
+        "asr": 53.33,
+        "avg_score": 5.22
+    },
+    "equations_and_inequalities": {
+        "cat": {
+            "linear_equations": {
+                "total_data": 15,
+                "success_data": 6,
+                "asr": 40.0,
+                "avg_score": 6.07
+            },
+            "quadratic_equations": {
+                "total_data": 15,
+                "success_data": 9,
+                "asr": 60.0,
+                "avg_score": 3.93
+            },
+            "systems_of_equations": {
+                "total_data": 15,
+                "success_data": 9,
+                "asr": 60.0,
+                "avg_score": 4.4
+            },
+            "linear_inequalities": {
+                "total_data": 15,
+                "success_data": 6,
+                "asr": 40.0,
+                "avg_score": 6.2
+            },
+            "quadratic_inequalities": {
+                "total_data": 15,
+                "success_data": 13,
+                "asr": 86.67,
+                "avg_score": 2.47
+            },
+            "absolute_value_equations": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.2
+            }
+        },
+        "total_data": 90,
+        "success_data": 50,
+        "asr": 55.56,
+        "avg_score": 4.71
+    },
+    "functions": {
+        "cat": {
+            "linear_functions": {
+                "total_data": 15,
+                "success_data": 6,
+                "asr": 40.0,
+                "avg_score": 6.33
+            },
+            "quadratic_functions": {
+                "total_data": 15,
+                "success_data": 6,
+                "asr": 40.0,
+                "avg_score": 5.97
+            },
+            "exponential_functions": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.57
+            },
+            "polynomial_functions": {
+                "total_data": 15,
+                "success_data": 8,
+                "asr": 53.33,
+                "avg_score": 5.07
+            },
+            "exponential_growth_decay": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.4
+            },
+            "logarithmic_functions": {
+                "total_data": 15,
+                "success_data": 3,
+                "asr": 20.0,
+                "avg_score": 7.07
+            }
+        },
+        "total_data": 90,
+        "success_data": 37,
+        "asr": 41.11,
+        "avg_score": 5.9
+    },
+    "number_theory": {
+        "cat": {
+            "prime_and_composite_numbers": {
+                "total_data": 15,
+                "success_data": 3,
+                "asr": 20.0,
+                "avg_score": 7.47
+            },
+            "divisibility_and_factors": {
+                "total_data": 15,
+                "success_data": 4,
+                "asr": 26.67,
+                "avg_score": 6.93
+            },
+            "gcd_and_lcm": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.53
+            },
+            "congruences": {
+                "total_data": 15,
+                "success_data": 11,
+                "asr": 73.33,
+                "avg_score": 3.33
+            },
+            "Diophantine_equations": {
+                "total_data": 15,
+                "success_data": 10,
+                "asr": 66.67,
+                "avg_score": 4.0
+            },
+            "powers_and_roots": {
+                "total_data": 15,
+                "success_data": 6,
+                "asr": 40.0,
+                "avg_score": 5.73
+            }
+        },
+        "total_data": 90,
+        "success_data": 41,
+        "asr": 45.56,
+        "avg_score": 5.5
+    },
+    "polynomials": {
+        "cat": {
+            "polynomial_equations": {
+                "total_data": 15,
+                "success_data": 10,
+                "asr": 66.67,
+                "avg_score": 3.47
+            },
+            "operation_with_polynomials": {
+                "total_data": 15,
+                "success_data": 8,
+                "asr": 53.33,
+                "avg_score": 5.33
+            },
+            "rational_expressions": {
+                "total_data": 15,
+                "success_data": 9,
+                "asr": 60.0,
+                "avg_score": 4.53
+            },
+            "polynomial_inequalities": {
+                "total_data": 15,
+                "success_data": 11,
+                "asr": 73.33,
+                "avg_score": 3.53
+            },
+            "factoring_polynomials": {
+                "total_data": 15,
+                "success_data": 9,
+                "asr": 60.0,
+                "avg_score": 4.21
+            },
+            "application_of_polynomial": {
+                "total_data": 15,
+                "success_data": 10,
+                "asr": 66.67,
+                "avg_score": 3.3
+            }
+        },
+        "total_data": 90,
+        "success_data": 57,
+        "asr": 63.33,
+        "avg_score": 4.06
+    },
+    "probability_theory": {
+        "cat": {
+            "basic_probability": {
+                "total_data": 15,
+                "success_data": 5,
+                "asr": 33.33,
+                "avg_score": 7.13
+            },
+            "distributions": {
+                "total_data": 15,
+                "success_data": 11,
+                "asr": 73.33,
+                "avg_score": 3.4
+            },
+            "conditional_probability": {
+                "total_data": 15,
+                "success_data": 10,
+                "asr": 66.67,
+                "avg_score": 4.4
+            },
+            "probability_of_combinations_and_permutations": {
+                "total_data": 15,
+                "success_data": 11,
+                "asr": 73.33,
+                "avg_score": 3.93
+            },
+            "bayes_theorem": {
+                "total_data": 15,
+                "success_data": 9,
+                "asr": 60.0,
+                "avg_score": 4.9
+            },
+            "probability_density_functions": {
+                "total_data": 15,
+                "success_data": 5,
+                "asr": 33.33,
+                "avg_score": 5.63
+            }
+        },
+        "total_data": 90,
+        "success_data": 51,
+        "asr": 56.67,
+        "avg_score": 4.9
+    },
+    "sequences_and_series": {
+        "cat": {
+            "arithmetic_sequences": {
+                "total_data": 15,
+                "success_data": 8,
+                "asr": 53.33,
+                "avg_score": 5.0
+            },
+            "geometric_sequences": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.8
+            },
+            "special_sequences": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 6.0
+            },
+            "understanding_complex_sequences": {
+                "total_data": 15,
+                "success_data": 10,
+                "asr": 66.67,
+                "avg_score": 4.27
+            },
+            "calculating_recursive_sequences": {
+                "total_data": 15,
+                "success_data": 10,
+                "asr": 66.67,
+                "avg_score": 4.2
+            },
+            "harmonic_sequences": {
+                "total_data": 15,
+                "success_data": 11,
+                "asr": 73.33,
+                "avg_score": 4.0
+            }
+        },
+        "total_data": 90,
+        "success_data": 53,
+        "asr": 58.89,
+        "avg_score": 4.88
+    },
+    "trigonometry": {
+        "cat": {
+            "trigonometric_functions": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.6
+            },
+            "trigonometric_equations": {
+                "total_data": 15,
+                "success_data": 10,
+                "asr": 66.67,
+                "avg_score": 3.53
+            },
+            "trigonometric_identities": {
+                "total_data": 15,
+                "success_data": 8,
+                "asr": 53.33,
+                "avg_score": 5.2
+            },
+            "application_of_trigonometry_in_real_world_problems": {
+                "total_data": 15,
+                "success_data": 10,
+                "asr": 66.67,
+                "avg_score": 4.27
+            },
+            "solve_trigonometric_inequalities": {
+                "total_data": 15,
+                "success_data": 10,
+                "asr": 66.67,
+                "avg_score": 3.47
+            },
+            "solving_inverse_trigonometric_functions": {
+                "total_data": 15,
+                "success_data": 10,
+                "asr": 66.67,
+                "avg_score": 3.77
+            }
+        },
+        "total_data": 90,
+        "success_data": 55,
+        "asr": 61.11,
+        "avg_score": 4.31
+    },
+    "overall_asr": 50.19,
+    "overall_avg_score": 5.24,
+    "overall_avg_score_per_iter": [
+        7.81,
+        7.32,
+        7.38,
+        7.9,
+        7.53,
+        5.18,
+        4.0,
+        4.42,
+        4.24,
+        4.06,
+        3.35,
+        3.77,
+        4.28,
+        3.83,
+        3.56
+    ],
+    "total_data": 1080
+}

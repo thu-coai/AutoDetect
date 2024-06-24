@@ -1,0 +1,72 @@
+{
+    "instruction_following": {
+        "format": {
+            "length constraint": {
+                "short text": {},
+                "long text": {},
+                "fixed character": {}
+            },
+            "text format": {
+                "list format": {},
+                "table format": {},
+                "json format": {},
+                "markdown format": {}
+            },
+            "character format": {
+                "uppercase": {},
+                "lowercase": {},
+                "mixed case": {}
+            },
+            "punctuation format": {
+                "without punctuation": {},
+                "with punctuation": {}
+            },
+            "numeric format": {
+                "integer": {},
+                "decimal": {},
+                "scientific notation": {},
+                "ordinal number": {}
+            }
+        },
+        "content": {
+            "word constraint": {
+                "specific words": {},
+                "excluded words": {}
+            },
+            "specific sentence": {
+                "affirmative sentence": {},
+                "interrogative sentence": {},
+                "exclamatory sentence": {},
+                "imperative sentence": {}
+            },
+            "specific genre": {
+                "literary": {},
+                "scientific": {},
+                "business": {},
+                "news": {},
+                "fiction": {}
+            }
+        },
+        "general constraints": {
+            "multi lingual": {
+                "bilingual constraints": {},
+                "multilingual constraints": {}
+            },
+            "scenario simulation": {
+                "narrative scenario": {},
+                "dialogue scenario": {},
+                "descriptive scenario": {}
+            },
+            "language style": {
+                "formal": {},
+                "informal": {},
+                "slang": {}
+            },
+            "emotional tone": {
+                "positive tone": {},
+                "negative tone": {},
+                "neutral tone": {}
+            }
+        }
+    }
+}

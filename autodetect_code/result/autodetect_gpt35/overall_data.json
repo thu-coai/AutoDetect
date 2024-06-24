@@ -1,0 +1,306 @@
+{
+    "string_processing": {
+        "cat": {
+            "string_creation_and_deletion": {
+                "total_data": 15,
+                "success_data": 5,
+                "asr": 33.33,
+                "avg_score": 6.8
+            },
+            "string_operations_and_methods": {
+                "total_data": 15,
+                "success_data": 3,
+                "asr": 20.0,
+                "avg_score": 7.27
+            },
+            "regular_expressions": {
+                "total_data": 15,
+                "success_data": 4,
+                "asr": 26.67,
+                "avg_score": 5.33
+            },
+            "string_parsing": {
+                "total_data": 15,
+                "success_data": 8,
+                "asr": 53.33,
+                "avg_score": 5.0
+            },
+            "string_encoding_decoding": {
+                "total_data": 15,
+                "success_data": 4,
+                "asr": 26.67,
+                "avg_score": 5.73
+            },
+            "string_comparison": {
+                "total_data": 15,
+                "success_data": 6,
+                "asr": 40.0,
+                "avg_score": 5.87
+            }
+        },
+        "total_data": 90,
+        "success_data": 30,
+        "asr": 33.33,
+        "avg_score": 6.0
+    },
+    "data_container_operations": {
+        "cat": {
+            "creation_and_deletion": {
+                "total_data": 15,
+                "success_data": 6,
+                "asr": 40.0,
+                "avg_score": 6.93
+            },
+            "iteration_and_sorting": {
+                "total_data": 15,
+                "success_data": 5,
+                "asr": 33.33,
+                "avg_score": 6.27
+            },
+            "filtering_and_selection": {
+                "total_data": 15,
+                "success_data": 6,
+                "asr": 40.0,
+                "avg_score": 5.27
+            },
+            "conversion_and_handling": {
+                "total_data": 15,
+                "success_data": 5,
+                "asr": 33.33,
+                "avg_score": 6.53
+            },
+            "accessing_and_modifying": {
+                "total_data": 15,
+                "success_data": 5,
+                "asr": 33.33,
+                "avg_score": 6.4
+            },
+            "searching_elements": {
+                "total_data": 15,
+                "success_data": 4,
+                "asr": 26.67,
+                "avg_score": 6.93
+            }
+        },
+        "total_data": 90,
+        "success_data": 31,
+        "asr": 34.44,
+        "avg_score": 6.39
+    },
+    "logic_and_control_flow": {
+        "cat": {
+            "conditional_statements": {
+                "total_data": 15,
+                "success_data": 3,
+                "asr": 20.0,
+                "avg_score": 7.4
+            },
+            "loop_structures": {
+                "total_data": 15,
+                "success_data": 5,
+                "asr": 33.33,
+                "avg_score": 6.4
+            },
+            "exception_handling": {
+                "total_data": 15,
+                "success_data": 4,
+                "asr": 26.67,
+                "avg_score": 7.2
+            },
+            "combination_of_multiple_logic_and_control_flow_cases": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.0
+            },
+            "handling logical operators": {
+                "total_data": 15,
+                "success_data": 3,
+                "asr": 20.0,
+                "avg_score": 7.73
+            },
+            "functions_with_recursion": {
+                "total_data": 15,
+                "success_data": 4,
+                "asr": 26.67,
+                "avg_score": 7.0
+            }
+        },
+        "total_data": 90,
+        "success_data": 26,
+        "asr": 28.89,
+        "avg_score": 6.79
+    },
+    "functions_and_modules": {
+        "cat": {
+            "function_definition_and_invocation": {
+                "total_data": 15,
+                "success_data": 1,
+                "asr": 6.67,
+                "avg_score": 7.87
+            },
+            "module_creation_and_usage": {
+                "total_data": 15,
+                "success_data": 6,
+                "asr": 40.0,
+                "avg_score": 6.0
+            },
+            "anonymous_functions_and_higher-order_functions": {
+                "total_data": 12,
+                "success_data": 3,
+                "asr": 25.0,
+                "avg_score": 6.92
+            }
+        },
+        "total_data": 42,
+        "success_data": 10,
+        "asr": 23.81,
+        "avg_score": 6.93
+    },
+    "mathematics_and_algorithms": {
+        "cat": {
+            "basic_mathematical_operations": {
+                "total_data": 15,
+                "success_data": 2,
+                "asr": 13.33,
+                "avg_score": 7.73
+            },
+            "algorithm_design": {
+                "total_data": 15,
+                "success_data": 4,
+                "asr": 26.67,
+                "avg_score": 7.0
+            },
+            "data_analysis": {
+                "total_data": 15,
+                "success_data": 4,
+                "asr": 26.67,
+                "avg_score": 6.07
+            },
+            "geometry_problem_solving": {
+                "total_data": 15,
+                "success_data": 4,
+                "asr": 26.67,
+                "avg_score": 6.73
+            },
+            "statistical_modeling": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.33
+            },
+            "predictive_modeling": {
+                "total_data": 15,
+                "success_data": 6,
+                "asr": 40.0,
+                "avg_score": 5.13
+            }
+        },
+        "total_data": 90,
+        "success_data": 27,
+        "asr": 30.0,
+        "avg_score": 6.33
+    },
+    "data_structures": {
+        "cat": {
+            "linear_data_structures": {
+                "total_data": 15,
+                "success_data": 5,
+                "asr": 33.33,
+                "avg_score": 5.73
+            },
+            "tree_data_structures": {
+                "total_data": 15,
+                "success_data": 6,
+                "asr": 40.0,
+                "avg_score": 6.13
+            },
+            "graph_data_structures": {
+                "total_data": 15,
+                "success_data": 5,
+                "asr": 33.33,
+                "avg_score": 6.4
+            },
+            "queue_data_structures": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.47
+            },
+            "hash_data_structures": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 5.07
+            }
+        },
+        "total_data": 75,
+        "success_data": 30,
+        "asr": 40.0,
+        "avg_score": 5.76
+    },
+    "file_handling": {
+        "cat": {
+            "file_opening_and_closing": {
+                "total_data": 15,
+                "success_data": 3,
+                "asr": 20.0,
+                "avg_score": 6.47
+            },
+            "file_reading_and_writing_operations": {
+                "total_data": 15,
+                "success_data": 3,
+                "asr": 20.0,
+                "avg_score": 6.47
+            },
+            "file_and_directory_management": {
+                "total_data": 15,
+                "success_data": 4,
+                "asr": 26.67,
+                "avg_score": 6.33
+            },
+            "handling_file_metadata": {
+                "total_data": 15,
+                "success_data": 5,
+                "asr": 33.33,
+                "avg_score": 6.07
+            },
+            "file_compression_and_decompression": {
+                "total_data": 15,
+                "success_data": 8,
+                "asr": 53.33,
+                "avg_score": 4.53
+            },
+            "file_encryption_and_decryption": {
+                "total_data": 15,
+                "success_data": 7,
+                "asr": 46.67,
+                "avg_score": 4.87
+            }
+        },
+        "total_data": 90,
+        "success_data": 30,
+        "asr": 33.33,
+        "avg_score": 5.79
+    },
+    "overall_asr": 32.45,
+    "overall_avg_score": 6.24,
+    "overall_avg_score_per_iter": [
+        8.66,
+        8.95,
+        8.76,
+        8.45,
+        8.89,
+        7.21,
+        5.29,
+        4.97,
+        5.53,
+        4.89,
+        4.53,
+        4.11,
+        4.05,
+        5.11,
+        4.11
+    ],
+    "total_data": 567
+}

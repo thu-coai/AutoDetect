@@ -1,0 +1,37 @@
+{
+    "string_processing": [
+        "string_creation_and_deletion",
+        "string_operations_and_methods",
+        "regular_expressions"
+    ],
+    "data_container_operations": [
+        "creation_and_deletion",
+        "iteration_and_sorting",
+        "filtering_and_selection"
+    ],
+    "logic_and_control_flow": [
+        "conditional_statements",
+        "loop_structures",
+        "exception_handling"
+    ],
+    "functions_and_modules": [
+        "function_definition_and_invocation",
+        "module_creation_and_usage",
+        "anonymous_functions_and_higher-order_functions"
+    ],
+    "mathematics_and_algorithms": [
+        "basic_mathematical_operations",
+        "algorithm_design",
+        "data_analysis"
+    ],
+    "data_structures": [
+        "linear_data_structures",
+        "tree_data_structures",
+        "graph_data_structures"
+    ],
+    "file_handling": [
+        "file_opening_and_closing",
+        "file_reading_and_writing_operations",
+        "file_and_directory_management"
+    ]
+}

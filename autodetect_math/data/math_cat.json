@@ -1,0 +1,92 @@
+{
+    "math": {
+        "algebra": {
+            "arithmetic": {
+                "basic_operations": {},
+                "integer_exponents": {},
+                "roots_and_radicals": {},
+                "absolute_value": {}
+            },
+            "polynomials": {
+                "polynomial_equations": {},
+                "operation_with_polynomials": {},
+                "rational_expressions": {}
+            },
+            "equations_and_inequalities": {
+                "linear_equations": {},
+                "quadratic_equations": {},
+                "systems_of_equations": {},
+                "linear_inequalities": {},
+                "quadratic_inequalities": {}
+            },
+            "functions": {
+                "linear_functions": {},
+                "quadratic_functions": {},
+                "exponential_functions": {}
+            },
+            "sequences_and_series": {
+                "arithmetic_sequences": {},
+                "geometric_sequences": {},
+                "special_sequences": {
+                    "fibonacci_sequence": {},
+                    "other_recursive_sequences": {}
+                }
+            },
+            "complex_numbers": {
+                "basic_operations": {
+                    "addition": {},
+                    "subtraction": {},
+                    "multiplication": {},
+                    "division": {}
+                },
+                "polar_form": {},
+                "roots_of_complex_numbers": {},
+                "complex_conjugates": {}
+            }
+        },
+        "geometry": {
+            "trigonometry": {
+                "trigonometric_functions": {},
+                "trigonometric_equations": {},
+                "trigonometric_identities": {}
+            },
+            "coords_and_shapes": {
+                "coordinate_geometry": {},
+                "geometric_shapes": {}
+            },
+            "concepts_of_space_and_form": {
+                "angles": {},
+                "area_and_perimeter": {},
+                "volume_and_surface_area": {}
+            }
+        },
+        "analysis": {
+            "limits": {},
+            "derivatives": {
+                "basic_derivative_rules": {},
+                "chain_rule": {},
+                "product_and_quotient_rules": {}
+            },
+            "integrals": {
+                "definite_integrals": {},
+                "indefinite_integrals": {},
+                "integration_techniques": {}
+            }
+        },
+        "number_theory": {
+            "prime_and_composite_numbers": {},
+            "divisibility_and_factors": {},
+            "gcd_and_lcm": {},
+            "congruences": {}
+        },
+        "probability_theory": {
+            "basic_probability": {},
+            "distributions": {
+                "binomial_distribution": {},
+                "normal_distribution": {}
+            },
+            "conditional_probability": {},
+            "probability_of_combinations_and_permutations": {}
+        }
+    }
+}
