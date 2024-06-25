@@ -5,7 +5,7 @@
 
 <p align="center">
    🤗 <a href="#data" target="_blank">Data</a> 
-   <!-- • 📃 <a href="https://arxiv.org/abs/" target="_blank">Paper</a> -->
+   • 📃 <a href="https://arxiv.org/abs/2406.16714" target="_blank">Paper</a>
 </p>
 
 Effective weakness discovery can well guide
@@ -27,6 +27,7 @@ this data, we can further improve LLMs (B).
 - [Quick Start](#quick-start)
     - [Setup](#setup)
     - [Weakness Detection](#weakness-detection)
+- [Citation](#citation)
 
 
 ## Data
@@ -85,3 +86,14 @@ python count_res.py
 ## Acknowledgement
 - Fine-tuning code: [llm_finetuning](https://github.com/ssbuild/llm_finetuning)
 - Evaluation scripts: [IFEval](https://github.com/google-research/google-research/tree/master/instruction_following_eval), [MetaMath](https://github.com/meta-math/MetaMath), and [HumanEval](https://github.com/openai/human-eval)
+
+
+## Citation
+```
+@article{cheng2024autodetect,
+  title={AutoDetect: Towards a Unified Framework for Automated Weakness Detection in Large Language Models},
+  author={Cheng, Jiale and Lu, Yida and Gu, Xiaotao and Ke, Pei and Liu, Xiao and Dong, Yuxiao and Wang, Hongning and Tang, Jie and Huang, Minlie},
+  journal={arXiv preprint arXiv:2406.16714},
+  year={2024}
+}
+```
